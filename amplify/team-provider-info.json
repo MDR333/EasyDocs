@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-easydocs-dev-174817-authRole",
+      "UnauthRoleArn": "arn:aws:iam::197174119088:role/amplify-easydocs-dev-174817-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::197174119088:role/amplify-easydocs-dev-174817-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-easydocs-dev-174817-deployment",
+      "UnauthRoleName": "amplify-easydocs-dev-174817-unauthRole",
+      "StackName": "amplify-easydocs-dev-174817",
+      "StackId": "arn:aws:cloudformation:us-east-2:197174119088:stack/amplify-easydocs-dev-174817/102cc6f0-a80b-11ed-8c1c-0a2f39f1f93c",
+      "AmplifyAppId": "d3ak93w72hmozn"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3ak93w72hmozn",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
